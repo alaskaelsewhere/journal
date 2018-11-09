@@ -1,7 +1,12 @@
 # Ecosystem
 
 ## media
-- Pitchfork
+
+Media Name | URL
+--- | ---
+Pitchfork |
+
+
 
 ## blog
 
